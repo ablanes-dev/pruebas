@@ -1,0 +1,4 @@
+Host *.github.com
+  AddKeysToAgent yes
+  UseKeyChain yes
+  IdentifyFile ~/.ssh/id_rsa
